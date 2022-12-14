@@ -13,7 +13,8 @@
     "release": "bumpp package.json packages/**/package.json",
     "lint": "pnpm --filter anu-vue lint",
     "update:deps": "taze -r -w",
-    "test": "nr --filter anu-vue test"
+    "test": "nr --filter anu-vue test",
+    "story:dev": "pnpm --filter @anu-vue/histoire story:dev"
   },
   "keywords": [],
   "author": "",

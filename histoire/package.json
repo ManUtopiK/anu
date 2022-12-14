@@ -1,0 +1,27 @@
+{
+  "name": "@anu-vue/histoire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "story:dev": "histoire dev",
+    "story:build": "histoire build",
+    "story:preview": "histoire preview"
+  },
+  "keywords": [ ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@histoire/plugin-vue": "^0.11.9",
+    "@iconify-json/bx": "^1.1.5",
+    "histoire": "^0.11.9",
+    "unocss": "^0.46.5"
+  },
+  "dependencies": {
+    "@anu-vue/preset-theme-default": "workspace:*",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "@vitejs/plugin-vue-jsx": "^2.1.1",
+    "anu-vue": "workspace:*",
+    "vue": "^3.2.41"
+  }
+}
