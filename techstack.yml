@@ -1,7 +1,8 @@
 repo_name: ManUtopiK/anu
 report_id: 7aa3d0c04356c0f7812b6d77590e2885
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T18:38:05+00:00'
+timestamp: '2024-01-05T08:22:14+00:00'
 requested_by: jd-solanki
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ManUtopiK/anu
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ManUtopiK/anu
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/package.json
   detection_source: package.json
   last_updated_by: JD Solanki
   last_updated_on: 2022-06-04 07:17:45.000000000 Z
@@ -49,6 +53,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/package.json
   detection_source: package.json
   last_updated_by: JD Solanki
   last_updated_on: 2022-11-29 20:02:09.000000000 Z
@@ -61,6 +66,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/packages/anu-vue/package.json
   detection_source: packages/anu-vue/package.json
   last_updated_by: JD Solanki
   last_updated_on: 2022-06-04 07:17:45.000000000 Z
@@ -87,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/package.json
   detection_source: package.json
   last_updated_by: JD Solanki
   last_updated_on: 2022-06-04 07:17:45.000000000 Z
@@ -98,6 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ManUtopiK/anu
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -107,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/.github/workflows/check-build.yml
   detection_source: ".github/workflows/check-build.yml"
   last_updated_by: Christian Preston
   last_updated_on: 2023-01-02 16:04:32.000000000 Z
@@ -118,6 +127,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/package.json
   detection_source: package.json
   last_updated_by: JD Solanki
   last_updated_on: 2022-06-04 07:17:45.000000000 Z
@@ -130,6 +140,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/packages/anu-vue/package.json
   detection_source: packages/anu-vue/package.json
   last_updated_by: JD Solanki
   last_updated_on: 2022-06-04 07:17:45.000000000 Z
@@ -156,6 +167,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/packages/preset-theme-default/package.json
   detection_source: packages/preset-theme-default/package.json
   last_updated_by: JD Solanki
   last_updated_on: 2022-11-29 19:08:27.000000000 Z
@@ -168,6 +180,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/10903/JLVo_YPe_400x400.jpg
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/package.json
   detection_source: package.json
   last_updated_by: JD Solanki
   last_updated_on: 2023-03-26 16:01:49.000000000 Z
@@ -180,6 +193,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/netlify.toml
   detection_source: netlify.toml
   last_updated_by: JD Solanki
   last_updated_on: 2022-07-14 16:33:15.000000000 Z
@@ -192,6 +206,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ManUtopiK/anu
   detection_source: Repo Metadata
 - name: Zod
   description: TypeScript-first schema validation
@@ -199,6 +214,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/48521/default_eea961e4c374e68a1c7eb5bbc9e4a39920890342.png
+  detection_source_url: https://github.com/ManUtopiK/anu/blob/main/docs/package.json
   detection_source: docs/package.json
   last_updated_by: JD Solanki
   last_updated_on: 2022-06-04 20:10:26.000000000 Z
